@@ -2,34 +2,34 @@
 // BASE ILMANHDYT
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
-// RECODE BY ZIFABOTZ
+// RECODE BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285828764046'] 
-global.mods = ['6285828764046'] 
-global.prems = ['6285828764046'] 
+global.owner = ['6285822347348'] 
+global.mods = ['6285822347348'] 
+global.prems = ['6285822347348'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
-global.numberowner = '6285828377610'
-global.instagram = 'https://instagram.com/zalfapontianak'
-global.github = 'https://github.com/Botynyakamu'
-global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/'
-global.sc = 'https://youtu.be/lMcwJMp_0rM'
-global.ss = 'https://youtu.be/3m7tRD4RklM'
-global.sss = 'https://youtu.be/PzUH1ApMCig'
-global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '085828764046'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.nameowner = 'ArullOfc'
+global.numberowner = '6285822347348'
+global.instagram = 'https://instagram.com/sahrulwara_____'
+global.github = 'https://github.com/Warikrr'
+global.tt = 'https://youtu.be/pzx9TquOg0M'
+global.sc = 'https://youtu.be/pzx9TquOg0M'
+global.ss = 'https://youtu.be/pzx9TquOg0M'
+global.sss = 'https://youtu.be/pzx9TquOg0M'
+global.yt = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
+global.dana = '085822347348'
+global.pulsa = '085822347348'
+global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/Hd8yhc0sfSdGvPnpOjGHna'
-global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/zalfapontianak'
-global.saweria = 'https://saweria.co/zifabotz123'
-global.nomer = 'https://wa.me/6285787476829' //ganti jadi nomor mu
+global.namebot = 'ArullBotz'
+global.gc = 'https://chat.whatsapp.com/Jxt0CRpnOEJAlG05VfJxb1'
+global.web = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://youtu.be/pzx9TquOg0M'
+global.saweria = 'https://saweria.co/arullofc'
+global.nomer = 'https://wa.me/6285822347348' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -44,10 +44,10 @@ global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = 'ArullBotz'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜArullOfc1꧅'
+global.wm3 = 'ᯤ Arull 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Zifabotz'
-global.author = '@rozi'
+global.packname = 'ArullBotz'
+global.author = '@Puki'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
