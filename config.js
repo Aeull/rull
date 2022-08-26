@@ -26,18 +26,18 @@ global.gopay = ''
 //=============『 Info Bot 』=================//
 global.namebot = 'ArullBotz'
 global.gc = 'https://chat.whatsapp.com/Jxt0CRpnOEJAlG05VfJxb1'
-global.web = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/sahrulwara_____' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://youtu.be/pzx9TquOg0M'
 global.saweria = 'https://saweria.co/arullofc'
 global.nomer = 'https://wa.me/6285822347348' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/4c7b1f58bb1832ecd9c1d.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/8327f882ce207128296ba.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/88a4f6a6247d90433508a.jpg' //ini juga ganti
+global.fotonya1 = 'https://telegra.ph/file/d8ae62918665e63135902.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/d8ae62918665e63135902.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/d8ae62918665e63135902.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/d8ae62918665e63135902.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/d8ae62918665e63135902.jpg' //ini juga ganti
 global.fotonya6 = 'https://telegra.ph/file/29bb316ba4424c23346fa.jpg' //ini ganti pakai foto sosialmedia mu
 global.fotonya7 = 'https://telegra.ph/file/459fa21043a73dc4147e8.jpg'
 global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto session
