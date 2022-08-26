@@ -38,7 +38,7 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
     itemCount : 20290,
     status: 1,
     surface : 1,
-    message: `❏ zifabotz`, 
+    message: `ArullBotz`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch('https://telegra.ph/file/ad0f27b9d5e469827e654.jpg')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
@@ -46,7 +46,7 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
     }
     }
   await conn.send3ButtonImg(m.chat, await (await fetch(thumb)).buffer(), `
-*PLAY ZIFABOTZ*
+*PLAY ARULLBOTZ*
 ├●───────────────┤
 ◁ㅤ ❚❚ㅤ▷
 ┏┉━━━━━━━━━━━❏
