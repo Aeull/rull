@@ -56,6 +56,7 @@ const defaultMenu = {
 ⫹⫺ KrizynOfc
 ⫹⫺ RielgansOfc
 ⫹⫺ Zifabotz_offc1
+⫹⫺ ArullOfc
 ╰─────────────⬣
 `,
 }
@@ -303,7 +304,7 @@ let menuu = `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             "title": `*${ucapan()}, ${name}*`.trim(),
-                        "description": `©️ *Zifabotz-MD*`.trim(),
+                        "description": `©️ *ArullBotz*`.trim(),
                         "footerText": "Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
                         "buttonText": "Click Here",
             listType: 1,
@@ -313,7 +314,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
               {
       
              "rows": [{
-                  "title": ` 🧝OWNER BOT`,
+                  "title": `👾OWNER BOT`,
                   "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
                   "rowId": `.owner`
                 },{
